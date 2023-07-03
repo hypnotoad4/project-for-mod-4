@@ -12,3 +12,11 @@
   backdrop-filter: blur(3px);
   height: 100vh;
 }
+
+.layer1 {
+  background: #0000008d;
+  border: 1px solid #0000008d;
+  padding: 10px;
+  margin: 20px;
+  width: 450px;
+}
