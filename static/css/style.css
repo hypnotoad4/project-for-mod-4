@@ -1,5 +1,5 @@
 .background {
-  background-image: url("static\\img\\regbg.jpg");
+  background-image: url("/static/img/regbg.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
