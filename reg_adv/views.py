@@ -9,3 +9,6 @@ def index_reg(request):
 
 def nickname(request):
     return render(request, 'nickname.html')
+
+def index(request):
+    return render(request, 'login.html')

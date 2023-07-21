@@ -4,3 +4,6 @@ from django.shortcuts import render
 
 def index(request):
     return render(request, 'login.html')
+
+def index_reg(request):
+    return render(request, 'registration.html')
