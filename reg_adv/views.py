@@ -6,3 +6,6 @@ from django.http import HttpResponse
 
 def index_reg(request):
     return render(request, 'registration.html')
+
+def nickname(request):
+    return render(request, 'nickname.html')
