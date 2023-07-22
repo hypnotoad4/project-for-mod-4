@@ -8,8 +8,8 @@
 }
 
 .background2 {
-  background-image: url("/static/img/top_img.png");
-  background-position: top;
+  background-image: url("");
+  background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
